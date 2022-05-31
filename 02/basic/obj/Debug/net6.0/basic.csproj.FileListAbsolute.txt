@@ -1,0 +1,15 @@
+E:\cs8dotnetcore3practice\02\basic\bin\Debug\net6.0\basic.exe
+E:\cs8dotnetcore3practice\02\basic\bin\Debug\net6.0\basic.deps.json
+E:\cs8dotnetcore3practice\02\basic\bin\Debug\net6.0\basic.runtimeconfig.json
+E:\cs8dotnetcore3practice\02\basic\bin\Debug\net6.0\basic.dll
+E:\cs8dotnetcore3practice\02\basic\bin\Debug\net6.0\basic.pdb
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.csproj.AssemblyReference.cache
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.AssemblyInfoInputs.cache
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.AssemblyInfo.cs
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.csproj.CoreCompileInputs.cache
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.dll
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\refint\basic.dll
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.pdb
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\basic.genruntimeconfig.cache
+E:\cs8dotnetcore3practice\02\basic\obj\Debug\net6.0\ref\basic.dll
